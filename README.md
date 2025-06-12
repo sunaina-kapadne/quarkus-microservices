@@ -2,6 +2,9 @@
 #### Quarkus version: 3.21.3
 #### Covered Scope: Inter-comminucation, Restful API, Database: Postgresql, H2, Fault Tolerance
 
+#### This is a simple multi-module Quarkus project with two microservices:
+- **offer-microservice** runs on port 8081
+- **price-microservice** runs on port 8082
 ------------------------------------
 ## offer-microservice:
 ### Covered Scope: 
