@@ -1,0 +1,19 @@
+# Maven
+/target
+**/target
+
+# IDEs
+/.idea/
+/*.iml
+*.class
+*.log
+*.tmp
+*.bak
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Quarkus specific
+quarkus.log
