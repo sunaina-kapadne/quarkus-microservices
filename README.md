@@ -1,5 +1,6 @@
 # quarkus-microservices
 #### Quarkus version: 3.21.3
+#### Covered Scope: Inter-comminucation, Restful API, Database: Postgresql, H2, Fault Tolerance
 
 ------------------------------------
 ## offer-microservice:
